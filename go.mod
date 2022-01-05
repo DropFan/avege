@@ -9,7 +9,7 @@ require (
 	github.com/dgryski/go-idea v0.0.0-20170306091226-d2fb45a411fb
 	github.com/dgryski/go-rc2 v0.0.0-20150621095337-8a9021637152
 	github.com/ebfe/rc2 v0.0.0-20131011165748-24b9757f5521 // indirect
-	github.com/fsnotify/fsnotify v1.4.7
+	github.com/fsnotify/fsnotify v1.5.1
 	github.com/ftrvxmtrx/fd v0.0.0-20150925145434-c6d800382fff
 	github.com/gin-gonic/gin v1.4.0
 	github.com/gomodule/redigo v2.0.0+incompatible
@@ -21,5 +21,5 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc
 	golang.org/x/net v0.0.0-20190921015927-1a5e07d1ff72
-	golang.org/x/sys v0.0.0-20191007092633-5f54ce542709
+	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 )
